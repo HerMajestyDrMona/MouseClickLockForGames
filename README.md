@@ -7,7 +7,7 @@ ClickLock allows a user to lock down the primary mouse button with a single clic
 
 ## What is this program: "Mouse ClickLock For Games" needed for?
 
-I'm developing an [Unofficial Patch](https://ee2.eu/patch/) for an old RTS game - Empire Earth II. An user on the Support Chat asked me for help getting the ClickLock to work in this game. He can only use a trackball because he can't move the mouse around. He uses a stick in his mouth with a piece of rubber tubing on the end to roll the ball.
+I'm developing an [Unofficial Patch](https://ee2.eu/patch/) for an old RTS game - Empire Earth II. A user on the Support Chat asked me for help getting the ClickLock to work in this game. He can only use a trackball because he can't move the mouse around. He uses a stick in his mouth with a piece of rubber tubing on the end to roll the ball.
 
 Unfortunately, some games (especially old ones) don't support the default ClickLock available on Windows. It's because they intercept mouse clicks on hardware level. This is what this software helps with. I primarily wanted to include it as an option to the game Launcher. I then realized that there are other people with disabilities looking for a tool like this, in order to use in the other programs / games, where Windows ClickLock fails to work. As a result I released `Mouse ClickLock For Games` available for free, for everyone.
 
