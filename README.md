@@ -1,6 +1,6 @@
 # Mouse ClickLock For Games
 
-This small utility works in a similar way as ClickLock available in Windows, but also supports old games where the normal ClickLock fails to work. This is a charity project, designed for people with disabilities.
+This small utility works in a similar way as ClickLock available on Windows, but also supports old games where the normal ClickLock fails to work. This is a charity project, designed for people with disabilities.
 
 ## What is ClickLock?
 ClickLock allows a user to lock down the primary mouse button with a single click. It's then possible to highlight or drag without holding down the primary mouse button.
