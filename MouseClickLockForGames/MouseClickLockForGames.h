@@ -21,7 +21,7 @@ using namespace chrono;
 
 //Basic Configuration:
 int ClickLockMouseButtonMode = 0;
-int ActivationDelay = 750;
+int ActivationDelay = 0;
 bool MoveMouseBackToClickPosition = true;
 bool AutomaticallyRunThisProgramOnStartup = false;
 bool UseWindowsClickLockAntiDoubleFix = true;
